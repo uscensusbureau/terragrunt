@@ -22,7 +22,7 @@ require (
 	github.com/hashicorp/terraform v0.15.3
 	github.com/hashicorp/terraform-config-inspect v0.0.0-20210318070130-9a80970d6b34
 	github.com/imdario/mergo v0.3.11
-	github.com/mattn/go-zglob v0.0.3
+	github.com/mattn/go-zglob v0.0.4
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/sirupsen/logrus v1.9.3
