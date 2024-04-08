@@ -30,7 +30,7 @@ require (
 	github.com/zclconf/go-cty v1.13.2
 	go.mozilla.org/sops/v3 v3.7.3
 	golang.org/x/crypto v0.17.0 // indirect
-	golang.org/x/oauth2 v0.13.0
+	golang.org/x/oauth2 v0.19.0
 	golang.org/x/sync v0.4.0
 	golang.org/x/sys v0.15.0
 	google.golang.org/api v0.149.0
@@ -203,7 +203,6 @@ require (
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
-	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20231016165738-49dd2c1f3d0b // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20231016165738-49dd2c1f3d0b // indirect
 	google.golang.org/grpc v1.59.0 // indirect
